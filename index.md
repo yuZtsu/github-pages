@@ -1,5 +1,6 @@
 ---
 title: GitHub pages つくった
+background: #000000
 ---
 
 ![GitHubIcon](https://avatars.githubusercontent.com/u/165875909)
