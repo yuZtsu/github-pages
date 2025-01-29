@@ -4,7 +4,6 @@ title: yuZetsu
 
 # Hello!
 ゆ絶
-<div>
 ### My links
   - [X(Twitter)](https://twitter.com/Yuzetsu_) <- ここにおります。
   - [YouTube](https://youtube.com/@user-yuztsu)
@@ -12,4 +11,3 @@ title: yuZetsu
   - [Bluesky](https://bsky.app/profile/yuzetsu.bsky.social)
   - [mixi2](https://mixi.social/@Yuzetsu)
   - [pixiv](https://www.pixiv.net/users/76551943)
-</div>
