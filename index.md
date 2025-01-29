@@ -3,6 +3,8 @@ title: GitHub pages つくった
 ---
 
 ![GitHubIcon](https://avatars.githubusercontent.com/u/165875909) ![usualIcon](https://pbs.twimg.com/profile_images/1865320684395827201/NKhHidqX_400x400.jpg)
+
+GitHubのアイコン                                                  ↑いつもの
 # Hello!
 どうもゆ絶です。アイコン画像のファイルサイズが1MBを超えてしまっていたので、いつもと異なっております。\
 Hello, I'm Yuzestu.\
