@@ -1,9 +1,11 @@
 ---
-title: yuZetsu
+title: yuZtsu
 ---
 
 # Hello!
-ゆ絶
+どうもゆ絶です。アイコン画像のファイルサイズが1MBを超えてしまっていたので、いつもと異なっております。\
+Hello, I'm Yuzestu.\
+My GitHub account icon is different my usual icon that the reason to why file size of icon bigger than 1MB.
 ### My links
   - [X(Twitter)](https://twitter.com/Yuzetsu_) <- ここにおります。
   - [YouTube](https://youtube.com/@user-yuztsu)
