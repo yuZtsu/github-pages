@@ -2,7 +2,7 @@
 title: GitHub pages つくった
 ---
 
-![GitHubIcon](https://avatars.githubusercontent.com/u/165875909)GitHubのアイコン
+![GitHubIcon](https://avatars.githubusercontent.com/u/165875909)
 ![usualIcon](https://pbs.twimg.com/profile_images/1865320684395827201/NKhHidqX_400x400.jpg)
 
 # Hello!
