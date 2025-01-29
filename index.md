@@ -1,5 +1,5 @@
 ---
-title: yuZtsu
+title: GitHub pages つくった
 ---
 
 # Hello!
@@ -7,8 +7,9 @@ title: yuZtsu
 Hello, I'm Yuzestu.\
 My GitHub account icon is different my usual icon that the reason to why file size of icon bigger than 1MB.
 ### My links
-  - [X(Twitter)](https://twitter.com/Yuzetsu_) <- ここにおります。
-  - [YouTube](https://youtube.com/@user-yuztsu)
+  - ### [GitHub](https://github.com/yuZtsu)
+  - #### [X(Twitter)](https://twitter.com/Yuzetsu_) <- ここにおります。
+  - #### [YouTube](https://youtube.com/@user-yuztsu)
   - [niconico](https://www.nicovideo.jp/user/118313486)
   - [Bluesky](https://bsky.app/profile/yuzetsu.bsky.social)
   - [mixi2](https://mixi.social/@Yuzetsu)
