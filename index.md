@@ -4,7 +4,7 @@ date: 2025-01-29
 ---
 
 ![GitHubIcon](https://avatars.githubusercontent.com/u/165875909)
-![UsualIconIn20250728](<img width="1280" height="960" alt="おめめ3" src="https://github.com/user-attachments/assets/143448d0-a712-46fa-b1ad-66fc19853eec" />)
+![UsualIconIn20250728](https://github.com/yuZtsu/github-pages/blob/main/%E3%81%8A%E3%82%81%E3%82%813.png)
 
 # Hello!
 
