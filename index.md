@@ -4,7 +4,7 @@ date: 2025-01-29
 ---
 
 ![GitHubIcon](https://avatars.githubusercontent.com/u/165875909)
-![usualIcon](https://pbs.twimg.com/profile_images/1865320684395827201/NKhHidqX_400x400.jpg)
+![XIcon](https://x.com/Yuzetsu_/photo)
 
 # Hello!
 どうもゆ絶です。アイコン画像のファイルサイズが1MBを超えてしまっていたので、いつもと異なっております。\
