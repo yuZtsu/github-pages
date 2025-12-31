@@ -11,7 +11,6 @@ date: 2026-01-01
 
 どうもゆ絶です。Hello, I'm Yuzestu.\
 
-
 # My links
 
   - **[X(Twitter)](https://twitter.com/Yuzetsu_)**
