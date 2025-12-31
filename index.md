@@ -13,6 +13,7 @@ date: 2026-01-01
 
 # My links
 
+  - *[Here](https://yuztsu.github.io/github-pages/)*
   - **[X(Twitter)](https://twitter.com/Yuzetsu_)**
   - **[YouTube](https://www.youtube.com/channel/UCI7D6aNJu9XFnmeet7JNFow)**
   - **[GitHub](https://github.com/yuZtsu)**
