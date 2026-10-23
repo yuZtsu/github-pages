@@ -19,6 +19,7 @@ date: 2026-01-01
   - **[GitHub](https://github.com/yuZtsu)**
   - [niconico](https://www.nicovideo.jp/user/118313486)
   - [Bluesky](https://bsky.app/profile/yuzetsu.bsky.social)
+  - [north.rip](https://north.rip/Yuzetsu)
   - [Instagram](https://www.instagram.com/yuzetsu_/)
   - [Facebook](https://www.facebook.com/profile.php?id=61585841031036)
   - [mixi2](https://mixi.social/@Yuzetsu)
